@@ -1,0 +1,32 @@
+
+
+.title {
+    letter-spacing: -0.025rem;
+    font-weight: 800;
+    color: var(--text-black);
+    font-size: 3rem;
+    line-height: 1;
+}
+
+.subtitle{
+    margin-top: 0.75rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: #f75225;
+
+}
+.button {
+    background-color: var(--text-purple);
+    cursor: pointer;
+    color: #ffffff;
+    outline: 0;
+    border: 0px;
+
+    padding: 1rem 2.5rem;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+
+.button:hover {
+    background-color: var(--text-purple-dark);
+}
